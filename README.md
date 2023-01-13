@@ -1,4 +1,4 @@
-# Adriana-Morales
+# Hi, I'm Adriana Morales
 #### Software Developer <br/>
 #### Frontend:  Typescript | React | Nextjs | Javascript | Tailwind | CSS<br/>
 #### Backend: Node.js | Supabase | AirTable | MongoDB <br/>
