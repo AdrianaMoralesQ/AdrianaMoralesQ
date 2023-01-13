@@ -1,16 +1,30 @@
-### Hi there 👋
+# Adriana-Morales
+#### Software Developer <br/>
+#### Frontend:  Typescript | React | Nextjs | Javascript | Tailwind | CSS<br/>
+#### Backend: Node.js | Supabase | AirTable | MongoDB <br/>
+####  mother of 🐱 devourer of 🍜 
 
-<!--
-**AdrianaMoralesQ/AdrianaMoralesQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My values
+
+:open_hands:  *Teamwork* makes reaching our goals possible <br/>
+
+:key:  Good *communication* is essential to delivering a excellent products <br/>
+
+:hearts:  I'm eager to *learn* something new <br/>
+
+## About me
+
+
+*I'm a sucker for making things run smoothly and for streamlining processes*. I've worked in a bunch of industries, ranging from legal translation, video-game QA and Localization. I pivoted to Full Stack Web development because I wanted to learn how build tools that make the world work and make user's enjoy them. 
+
+*Learning new skills motivates me.* I thrive when I get to teach myself a new skill, whether this means overcoming my fear of skiing or figuring out the documentation for an API I've never worked with before. 
+
+
+## Get in touch!
+My site: [https://adrianamoralesdev.netlify.app/](https://adrianamoralesdev.netlify.app/)
+LinkedIn: [Adriana Morales](https://www.linkedin.com/in/adriana-morales-quiones/)
+Email: amorales25@gmail.com
+
