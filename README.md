@@ -11,7 +11,7 @@
 
 :open_hands:  *Teamwork* makes reaching our goals possible <br/>
 
-:key:  Good *communication* is essential to delivering a excellent products <br/>
+:key:  Good *communication* is essential to delivering excellent products <br/>
 
 :hearts:  I'm eager to *learn* something new <br/>
 
