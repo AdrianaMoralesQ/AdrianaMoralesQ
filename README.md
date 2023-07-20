@@ -25,7 +25,7 @@
 
 
 ## Get in touch!
-My site: [https://adrianamoralesdev.netlify.app/](https://adrianamoralesdev.netlify.app/)
+[Portfolio](https://www.adrianamoralesdev.com/)
 LinkedIn: [Adriana Morales](https://www.linkedin.com/in/adriana-morales-quiones/)
 Email: amorales25@gmail.com
 
